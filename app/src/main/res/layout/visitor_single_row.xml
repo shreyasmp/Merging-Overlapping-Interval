@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/visitorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/visitor_name_size_14sp"
+        android:textColor="@color/visitor_item_color_black_000000"
+        android:layout_marginTop="@dimen/visitor_item_margin_5dp"
+        android:layout_marginLeft="@dimen/visitor_item_margin_10dp"/>
+
+    <TextView
+        android:id="@+id/visitorVisitTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/visitor_name_size_14sp"
+        android:textColor="@color/visitor_item_color_black_000000"
+        android:layout_marginTop="@dimen/visitor_item_margin_10dp"
+        android:layout_marginLeft="@dimen/visitor_item_margin_10dp"
+        android:layout_marginBottom="@dimen/visitor_item_margin_5dp"
+        />
+
+</LinearLayout>
