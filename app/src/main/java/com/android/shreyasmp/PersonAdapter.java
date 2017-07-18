@@ -1,4 +1,4 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -9,8 +9,8 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-import static com.foursquare.takehome.Constants.FADED_GREY;
-import static com.foursquare.takehome.Constants.KEY_NO_VISITORS;
+import static com.android.shreyasmp.Constants.FADED_GREY;
+import static com.android.shreyasmp.Constants.KEY_NO_VISITORS;
 
 /**
  *  Person Adapter extending Recycler View Holder pattern for better control of the view elements.

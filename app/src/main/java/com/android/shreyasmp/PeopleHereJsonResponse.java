@@ -1,4 +1,4 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 final public class PeopleHereJsonResponse {
     private Venue venue;

@@ -1,4 +1,4 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 /**
  *  One change made in setArrivalTime and getArrivalTime methods, which was accepting int as argument

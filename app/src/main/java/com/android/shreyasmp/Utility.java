@@ -1,11 +1,11 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
-import static com.foursquare.takehome.Constants.TIME_FORMAT;
-import static com.foursquare.takehome.Constants.TIME_ZONE;
+import static com.android.shreyasmp.Constants.TIME_FORMAT;
+import static com.android.shreyasmp.Constants.TIME_ZONE;
 
 /**
  *  Single utility class for time conversion from unix time to real time as GMT with 12 hr clock format

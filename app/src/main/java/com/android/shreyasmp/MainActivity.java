@@ -1,4 +1,4 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -15,9 +15,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-import static com.foursquare.takehome.Constants.KEY_NO_VISITORS;
-import static com.foursquare.takehome.Constants.LONG_INITIALIZER;
-import static com.foursquare.takehome.Constants.NO_VISITOR_ID;
+import static com.android.shreyasmp.Constants.KEY_NO_VISITORS;
+import static com.android.shreyasmp.Constants.LONG_INITIALIZER;
+import static com.android.shreyasmp.Constants.NO_VISITOR_ID;
 
 public class MainActivity extends AppCompatActivity {
 

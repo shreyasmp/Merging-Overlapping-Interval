@@ -1,4 +1,4 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 /**
  *  constants file for color, time zone name, time format for display.

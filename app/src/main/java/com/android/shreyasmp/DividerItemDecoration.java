@@ -1,4 +1,4 @@
-package com.foursquare.takehome;
+package com.android.shreyasmp;
 
 import android.content.Context;
 import android.content.res.TypedArray;
